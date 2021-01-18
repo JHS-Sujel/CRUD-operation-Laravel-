@@ -32,6 +32,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 ## Operations
 - Create a project
+![Screenshot (163)](https://user-images.githubusercontent.com/73945266/104889413-663b5e80-5998-11eb-918f-889dde0c6d19.png)
 - View a project
 - Edit a project
 - Delete a project
