@@ -43,6 +43,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 - Delete a project
 ![Screenshot (167)](https://user-images.githubusercontent.com/73945266/104889015-c1208600-5997-11eb-85b2-c9582b2bed60.png)
 - View all projects
+![Screenshot (169)](https://user-images.githubusercontent.com/73945266/104890649-0e055c00-599a-11eb-8a4c-9c213d6413bf.png)
 
 
 ---
