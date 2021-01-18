@@ -15,6 +15,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 - cd projectapp/
 - Run __composer install__
 - Copy __.env.example__ file to __.env__
+![Screenshot (165)](https://user-images.githubusercontent.com/73945266/104888746-5bcc9500-5997-11eb-8519-77ca5e5f7cb2.png)
 - Run __php artisan key:generate__
 - Add your database config in the .env file
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
