@@ -43,6 +43,9 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 ## Operations
 - Create a project
 
+create() - This method has been used for load create.blade.php file. In this file user can find form for insert new records and 
+filling data insert data request will be send to store() method of ProjectController.php controller class.
+
 ![Screenshot (163)](https://user-images.githubusercontent.com/73945266/104889413-663b5e80-5998-11eb-918f-889dde0c6d19.png)
 
 ![Screenshot (168)](https://user-images.githubusercontent.com/73945266/104889693-c6320500-5998-11eb-8148-cd9ba5df42dc.png)
@@ -52,10 +55,15 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 - View a project
 
+show() - This method in Crud controller has been used for fetch single data details based on on value of $id argument. 
+For this it has been used findOrFail() method. After fetch details it will send to view.blade.php file.
+
 ![Screenshot (154)](https://user-images.githubusercontent.com/73945266/104890388-b36c0000-5999-11eb-8df8-45e9449ea245.png)
 ---
 
 - Edit a project
+
+edit() - This method main function is fetch single data from Mysql database and load into edit or update form for make required changes.
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/73945266/104890141-57a17700-5999-11eb-8a37-5a4df7b997f2.png)
 
@@ -63,6 +71,8 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 ---
 
 - Delete a project
+
+delete() - Delete() method mainly used for remove single or multiple data from Mysql Database. This is last operation Crud Operation in Laravel 8 Crud tutorial series.
 
 ![Screenshot (167)](https://user-images.githubusercontent.com/73945266/104889015-c1208600-5997-11eb-85b2-c9582b2bed60.png)
 ---
