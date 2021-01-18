@@ -19,6 +19,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 - Run __php artisan key:generate__
 - Add your database config in the .env file
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
+![Screenshot (166)](https://user-images.githubusercontent.com/73945266/104888884-933b4180-5997-11eb-849d-308ad4d23de2.png)
 - php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
 ![Screenshot (164)](https://user-images.githubusercontent.com/73945266/104888559-19a35380-5997-11eb-813b-a60512b9ccf5.png)
 - Navigate to http://127.0.0.1:8000/projects
