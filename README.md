@@ -36,6 +36,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 ![Screenshot (168)](https://user-images.githubusercontent.com/73945266/104889693-c6320500-5998-11eb-8148-cd9ba5df42dc.png)
 ![Screenshot (167)](https://user-images.githubusercontent.com/73945266/104889821-eb267800-5998-11eb-9ee9-ad53dddf7e2e.png)
 - View a project
+![Screenshot (154)](https://user-images.githubusercontent.com/73945266/104890388-b36c0000-5999-11eb-8df8-45e9449ea245.png)
 - Edit a project
 ![Screenshot (164)](https://user-images.githubusercontent.com/73945266/104890141-57a17700-5999-11eb-8a37-5a4df7b997f2.png)
 ![Screenshot (165)](https://user-images.githubusercontent.com/73945266/104890224-7a339000-5999-11eb-949d-e197f72b5bd6.png)
