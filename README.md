@@ -20,7 +20,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
 - Navigate to http://127.0.0.1:8000/projects
-![Screenshot (158)](https://user-images.githubusercontent.com/73945266/104887983-54f15280-5996-11eb-93be-250ef46a1e19.png)
+
 
 
 ---
