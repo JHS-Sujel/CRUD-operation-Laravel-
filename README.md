@@ -35,7 +35,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 - Run composer install or update 
 - Add your database config in the .env file
 - Create a new database in your localhost 
-- Run php artisan migrate
+- Table create: Run php artisan migrate
 - Create default user for system with: php artisan db:seed.    --seed__ (it has some seeded data for your testing)
 - Run php artisan key:generate
 - Run php artisan config:clear
