@@ -28,7 +28,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 
 
-## How to install and run on your local system
+# How to install and run on your local system
 
 - Clone the repository with __git clone__ https://github.com/JHS-Sujel/CRUD-operation-Laravel-
 - cd projectapp/
@@ -59,7 +59,8 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 ---
 
 
-## Operations
+# CRUD Operations
+
 - Create a project
 
 create() - This method has been used for load create.blade.php file. In this file user can find form for insert new records and 
@@ -104,7 +105,7 @@ delete() - Delete() method mainly used for remove single or multiple data from M
 ---
 
 
-## License
+# License
 
 Basically, feel free to use and re-use any way you want
 
