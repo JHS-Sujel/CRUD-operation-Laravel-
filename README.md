@@ -14,7 +14,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 ---
 
 
-#Steps for making Laravel 8 CRUD
+# Steps for making Laravel 8 CRUD
 
 - Step 01: Install Laravel 8
 - Step 02: Database Configuration
