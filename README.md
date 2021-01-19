@@ -1,8 +1,27 @@
 # CRUD-operation-Laravel-
 
 This is a simple laravel 8 CRUD app.
+If you are new in Laravel 8 and looking for a step by step project for Laravel 8 CRUD projectapp 
+then this project will help you to learn how to make a complete CRUD application using Laravel 8. 
+Before starting we have to check our system requirement is okay to use Laravel 8. 
+The Laravel 8 minimum requirements are listed below so that you can confirm 
+either your system is okay or not to install Laravel 8 project for making a Laravel 8 CRUD application.
+
 CRUD stands for Create, Read, Update and Delete which are operations needed in most data-driven apps that access and work with data from a database. 
 In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 against a MySQL database.
+
+
+---
+
+
+#Steps for making Laravel 8 CRUD
+
+- Step 01: Install Laravel 8
+- Step 02: Database Configuration
+- Step 03: Make model & migration
+- Step 04: Make controller
+- Step 05: Define routes
+- Step 06: Make views
 
 
 ---
