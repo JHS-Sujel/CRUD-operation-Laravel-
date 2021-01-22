@@ -74,11 +74,11 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 create() - This method has been used for load create.blade.php file. In this file user can find form for insert new records and 
 filling data insert data request will be send to store() method of ProjectController.php controller class.
 
-![Screenshot (163)](https://user-images.githubusercontent.com/73945266/104889413-663b5e80-5998-11eb-918f-889dde0c6d19.png)
+![Screenshot (209)](https://user-images.githubusercontent.com/73945266/105503224-88164780-5cf0-11eb-8e57-a2fa2f8ad7eb.png) 
 
-![Screenshot (168)](https://user-images.githubusercontent.com/73945266/104889693-c6320500-5998-11eb-8148-cd9ba5df42dc.png)
+![Screenshot (210)](https://user-images.githubusercontent.com/73945266/105503227-88aede00-5cf0-11eb-8a01-89cbd7e1ba12.png)
 
-![Screenshot (167)](https://user-images.githubusercontent.com/73945266/104889821-eb267800-5998-11eb-9ee9-ad53dddf7e2e.png)
+![Screenshot (211)](https://user-images.githubusercontent.com/73945266/105503236-89477480-5cf0-11eb-8046-54d44cb04a06.png)
 ---
 
 - View a project
