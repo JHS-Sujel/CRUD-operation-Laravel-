@@ -60,7 +60,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 - Navigate to http://127.0.0.1:8000/projects
 
-![Screenshot (208)](https://user-images.githubusercontent.com/73945266/105503223-877db100-5cf0-11eb-87b1-3e5bb2df7fd0.png)
+![Screenshot (218)](https://user-images.githubusercontent.com/73945266/105503475-d4618780-5cf0-11eb-964d-ed70740af31c.png)
 
 
 
