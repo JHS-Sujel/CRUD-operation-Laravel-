@@ -86,7 +86,8 @@ filling data insert data request will be send to store() method of ProjectContro
 show() - This method in Crud controller has been used for fetch single data details based on on value of $id argument. 
 For this it has been used findOrFail() method. After fetch details it will send to view.blade.php file.
 
-![Screenshot (154)](https://user-images.githubusercontent.com/73945266/104890388-b36c0000-5999-11eb-8df8-45e9449ea245.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/73945266/105503222-86e51a80-5cf0-11eb-817a-06f0d5531c92.png)
+
 ---
 
 - Edit a project
