@@ -111,8 +111,7 @@ delete() - Delete() method mainly used for remove single or multiple data from M
 
 - View all projects
 
-![Screenshot (169)](https://user-images.githubusercontent.com/73945266/104890649-0e055c00-599a-11eb-8a4c-9c213d6413bf.png)
-
+![Screenshot (212)](https://user-images.githubusercontent.com/73945266/105503239-89e00b00-5cf0-11eb-8c66-dd516bf23873.png)
 
 ---
 
