@@ -17,12 +17,13 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 # Steps for making Laravel 8 CRUD
 
 - Step 01: Install Laravel 8
-- Step 02: Database Configuration
-- Step 03: Make model & migration
-- Step 04: Make controller
-- Step 05: Define routes
-- Step 06: Make views
-- Step 07: php artisan serve
+- Step 02: Create project with composer 
+- Step 03: Database Configuration
+- Step 04: Make model & migration
+- Step 05: Make controller
+- Step 06: Define routes
+- Step 07: Make views
+- Step 08: php artisan serve
 
 
 ---
