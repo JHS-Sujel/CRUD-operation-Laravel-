@@ -79,6 +79,7 @@ filling data insert data request will be send to store() method of ProjectContro
 ![Screenshot (210)](https://user-images.githubusercontent.com/73945266/105503227-88aede00-5cf0-11eb-8a01-89cbd7e1ba12.png)
 
 ![Screenshot (211)](https://user-images.githubusercontent.com/73945266/105503236-89477480-5cf0-11eb-8046-54d44cb04a06.png)
+
 ---
 
 - View a project
@@ -97,13 +98,15 @@ edit() - This method main function is fetch single data from Mysql database and 
 ![Screenshot (214)](https://user-images.githubusercontent.com/73945266/105503246-8b113800-5cf0-11eb-9c83-773f59f5a412.png)
 
 ![Screenshot (215)](https://user-images.githubusercontent.com/73945266/105503210-83ea2a00-5cf0-11eb-9d9b-a01a298da03a.png)
+
 ---
 
 - Delete a project
 
 delete() - Delete() method mainly used for remove single or multiple data from Mysql Database. This is last operation Crud Operation in Laravel 8 Crud tutorial series.
 
-![Screenshot (167)](https://user-images.githubusercontent.com/73945266/104889015-c1208600-5997-11eb-85b2-c9582b2bed60.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/73945266/105503219-864c8400-5cf0-11eb-8246-4a6cb21a9271.png)
+
 ---
 
 - View all projects
