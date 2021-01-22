@@ -60,7 +60,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 - Navigate to http://127.0.0.1:8000/projects
 
-![Screenshot (229)](https://user-images.githubusercontent.com/73945266/105512827-c9f8bb00-5cfb-11eb-8c2a-095a10be2291.png)
+![Screenshot (237)](https://user-images.githubusercontent.com/73945266/105517372-29a59500-5d01-11eb-9398-3403d05d8b99.png)
 
 
 
@@ -74,11 +74,11 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 create() - This method has been used for load create.blade.php file. In this file user can find form for insert new records and 
 filling data insert data request will be send to store() method of ProjectController.php controller class.
 
-![Screenshot (220)](https://user-images.githubusercontent.com/73945266/105512412-42ab4780-5cfb-11eb-91d5-c03ad1c501ba.png)
+![Screenshot (240)](https://user-images.githubusercontent.com/73945266/105517374-2a3e2b80-5d01-11eb-99a0-f7a471ae00ed.png)
 
-![Screenshot (221)](https://user-images.githubusercontent.com/73945266/105512382-3cb56680-5cfb-11eb-8060-93f35cb7b57b.png)
+![Screenshot (248)](https://user-images.githubusercontent.com/73945266/105517369-290cfe80-5d01-11eb-9d93-c8b3fd9e0126.png)
 
-![Screenshot (222)](https://user-images.githubusercontent.com/73945266/105512387-3e7f2a00-5cfb-11eb-9977-46a73b445c00.png)
+![Screenshot (241)](https://user-images.githubusercontent.com/73945266/105517344-23171d80-5d01-11eb-8244-8b6b76625c9c.png)
 
 ---
 
@@ -87,7 +87,7 @@ filling data insert data request will be send to store() method of ProjectContro
 show() - This method in Crud controller has been used for fetch single data details based on on value of $id argument. 
 For this it has been used findOrFail() method. After fetch details it will send to view.blade.php file.
 
-![Screenshot (223)](https://user-images.githubusercontent.com/73945266/105512391-3f17c080-5cfb-11eb-8ae1-88b437e60e19.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/73945266/105517353-25797780-5d01-11eb-968a-677b7658e37d.png)
 
 ---
 
@@ -95,11 +95,9 @@ For this it has been used findOrFail() method. After fetch details it will send 
 
 edit() - This method main function is fetch single data from Mysql database and load into edit or update form for make required changes.
 
-![Screenshot (224)](https://user-images.githubusercontent.com/73945266/105512392-3fb05700-5cfb-11eb-83ae-d7e677b3c094.png)
+![Screenshot (243)](https://user-images.githubusercontent.com/73945266/105517354-26120e00-5d01-11eb-9c57-d3fc388c6b47.png)
 
-![Screenshot (225)](https://user-images.githubusercontent.com/73945266/105512396-4048ed80-5cfb-11eb-9390-b8d66b45e71d.png)
-
-![Screenshot (226)](https://user-images.githubusercontent.com/73945266/105512400-40e18400-5cfb-11eb-824c-34d09410713a.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/73945266/105517356-26aaa480-5d01-11eb-8c2c-291153a10b68.png)
 
 ---
 
@@ -107,13 +105,13 @@ edit() - This method main function is fetch single data from Mysql database and 
 
 delete() - Delete() method mainly used for remove single or multiple data from Mysql Database. This is last operation Crud Operation in Laravel 8 Crud tutorial series.
 
-![Screenshot (227)](https://user-images.githubusercontent.com/73945266/105512404-40e18400-5cfb-11eb-8702-920423b0d5ac.png)
+![Screenshot (246)](https://user-images.githubusercontent.com/73945266/105517365-28746800-5d01-11eb-9d3d-6e023bbd855a.png)
 
 ---
 
 - View all projects
 
-![Screenshot (228)](https://user-images.githubusercontent.com/73945266/105512406-417a1a80-5cfb-11eb-912c-a0e6da215755.png)
+![Screenshot (245)](https://user-images.githubusercontent.com/73945266/105517361-27dbd180-5d01-11eb-87d6-fbf3b97375fc.png)
 
 ---
 
