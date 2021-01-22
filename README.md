@@ -22,6 +22,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 - Step 04: Make controller
 - Step 05: Define routes
 - Step 06: Make views
+- Step 07: php artisan serve
 
 
 ---
