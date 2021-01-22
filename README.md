@@ -94,9 +94,9 @@ For this it has been used findOrFail() method. After fetch details it will send 
 
 edit() - This method main function is fetch single data from Mysql database and load into edit or update form for make required changes.
 
-![Screenshot (164)](https://user-images.githubusercontent.com/73945266/104890141-57a17700-5999-11eb-8a37-5a4df7b997f2.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/73945266/105503246-8b113800-5cf0-11eb-9c83-773f59f5a412.png)
 
-![Screenshot (165)](https://user-images.githubusercontent.com/73945266/104890224-7a339000-5999-11eb-949d-e197f72b5bd6.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/73945266/105503210-83ea2a00-5cf0-11eb-9d9b-a01a298da03a.png)
 ---
 
 - Delete a project
