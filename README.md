@@ -1,5 +1,7 @@
 # CRUD-operation-Laravel-
 
+## About
+
 This is a simple laravel 8 CRUD app.
 If you are new in Laravel 8 and looking for a step by step project for Laravel 8 CRUD projectapp 
 then this project will help you to learn how to make a complete CRUD application using Laravel 8. 
@@ -13,24 +15,33 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 ---
 
+There some couple of things you need to have on your system before installing laravel 8
 
-# Steps for making Laravel 8 CRUD
+- PHP
+- Composer
+- Server (WAMP, LAMP, XAMPP etc)
 
-- Step 01: Install Laravel 8
-- Step 02: Create project with composer 
-- Step 03: Database Configuration
-- Step 04: Make model & migration
-- Step 05: Make controller
-- Step 06: Define routes
-- Step 07: Make views
-- Step 08: php artisan serve
+
+## Steps for making Laravel 8 CRUD ( For beginners )
+
+- Step 01: Install Laravel 8 (Composer-Setup.exe)
+- Step 02: Server (WAMP, LAMP, XAMPP etc)
+- Step 03: Create project with composer ( Run: Composer create-project laravel/laravel (project name) )
+- Step 04: Run cd projectname
+- Step 05: Database Configuration ( Set db in .env nd mysql )
+- Step 06: Make model & migration ( Run: php artisan make:migration create_(table name)_table --create=(table name) )
+- Step 07: Make controller
+- Step 08: Define routes
+- Step 09: Make views
+- Step 10: php artisan serve
+
 
 
 ---
 
 
 
-# How to install and run on your local system
+## How to install and run my project on your local system
 
 - Clone the repository with git clone https://github.com/JHS-Sujel/CRUD-operation-Laravel-
 - cd projectapp
@@ -45,7 +56,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 
 ---
 
-# Or Step by Step to create a project (Using cmd). Screenshot given below:
+## Or Step by Step to create a project (Using cmd). Screenshot given below:
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/73945266/104888746-5bcc9500-5997-11eb-8519-77ca5e5f7cb2.png)
 ---
@@ -70,7 +81,7 @@ In this example, we'll see how to impelement the CRUD operations in Laravel 8/7 
 ---
 
 
-# CRUD Operations
+## CRUD Operations
 
 - Create a project
 
@@ -119,7 +130,7 @@ delete() - Delete() method mainly used for remove single or multiple data from M
 ---
 
 
-# License
+## License
 
 Basically, feel free to use and re-use any way you want
 
