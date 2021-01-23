@@ -30,15 +30,14 @@ There some couple of things you need to have on your system before installing la
 - Step 04: Run cd projectname
 - Step 05: Database Configuration ( Set db in .env nd mysql )
 - Step 06: Make model & migration ( Run: php artisan make:migration create_(table name)_table --create=(table name) )
-- Step 07: Make controller
+- Step 07: Make controller (Ex: Run- php artisan make:controller ProjectController --resource --model=Project)
 - Step 08: Define routes
-- Step 09: Make views
-- Step 10: php artisan serve
-
+- Step 09: Make views (Like: Layouts and Projects folder. In layouts create; app.blade.php. 
+                       In projects folder create index.blade.php, create.blade.php, edit.blade.php, show.blade.php)
+- Step 10: Run: php artisan serve
 
 
 ---
-
 
 
 ## How to install and run my project on your local system
