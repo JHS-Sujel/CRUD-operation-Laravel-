@@ -64,15 +64,42 @@ There some couple of things you need to have on your system before installing la
 ---
 
 - DB connect 
+  
+  ![Screenshot (247)](https://user-images.githubusercontent.com/73945266/105571147-c4d95180-5d77-11eb-98e3-27c292905df9.png)
 
-- Create table in project 
-
+- Create Migration 
+  
+  First cd into the project app: cd projectapp
+  php artisan make:migration create_projects_table --create=projects
+  
   ![104888884-933b4180-5997-11eb-849d-308ad4d23de2 (2)](https://user-images.githubusercontent.com/73945266/105570961-a3c43100-5d76-11eb-920a-4f537c6fce99.png)
+  ---
   
+  A migration file will be created in the database/migrations folder, and we need to create our schema, 
+  I added name (string), introduction (string), location (string), cost of  the project (float), date created, and date updated.
   
+  ![Screenshot (248)](https://user-images.githubusercontent.com/73945266/105571142-c276f780-5d77-11eb-9f2e-8a4ef1df8568.png)
+  ---
+  
+  Before we run our migration command, we need to specify the default string length, else, we are going to run into errors
+  So go to app/Providers/AppServiceProvider.php and add
+
+  Schema::defaultstringLength(191);
+
+  to the boot function, also add
+
+  use Illuminate\Support\Facades\Schema;
+
+  to the top
+  
+  ![Screenshot (249)](https://user-images.githubusercontent.com/73945266/105571144-c3a82480-5d77-11eb-8f76-c7ce0d818f47.png)
+  ---
+  
+  Finally, we run our migration command
   
   ![104888884-933b4180-5997-11eb-849d-308ad4d23de2 (3)](https://user-images.githubusercontent.com/73945266/105570962-a4f55e00-5d76-11eb-8d3c-902d5c135093.png)
-
+  ---
+  
 -  Model & Controller Create
 
 ![104888884-933b4180-5997-11eb-849d-308ad4d23de2 (4)](https://user-images.githubusercontent.com/73945266/105570964-a58df480-5d76-11eb-8020-e45714f51058.png)
