@@ -65,6 +65,8 @@ There some couple of things you need to have on your system before installing la
 - DB connect 
   
   ![Screenshot (247)](https://user-images.githubusercontent.com/73945266/105571147-c4d95180-5d77-11eb-98e3-27c292905df9.png)
+  
+---
 
 - Create Migration 
   
