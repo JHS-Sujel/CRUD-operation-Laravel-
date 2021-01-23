@@ -21,6 +21,7 @@ There some couple of things you need to have on your system before installing la
 - Composer
 - Server (WAMP, LAMP, XAMPP etc)
 
+---
 
 ## Steps for making Laravel 8 CRUD ( For beginners )
 
@@ -36,9 +37,7 @@ There some couple of things you need to have on your system before installing la
                        In projects folder create index.blade.php, create.blade.php, edit.blade.php, show.blade.php)
 - Step 10: Run: php artisan serve
 
-
 ---
-
 
 ## How to install and run my project on your local system
 
@@ -102,6 +101,7 @@ There some couple of things you need to have on your system before installing la
   Finally, we run our migration command
   
   ![104888884-933b4180-5997-11eb-849d-308ad4d23de2 (3)](https://user-images.githubusercontent.com/73945266/105570962-a4f55e00-5d76-11eb-8d3c-902d5c135093.png)
+  
 ---
 
 - Add Resource Route
@@ -117,6 +117,7 @@ There some couple of things you need to have on your system before installing la
   use App\Http\Controllers\ProjectController;
   
   ![Screenshot (250)](https://user-images.githubusercontent.com/73945266/105571145-c440bb00-5d77-11eb-94fc-dbee65bea430.png)
+  
 ---
   
 -  Model & Controller Create
@@ -129,6 +130,8 @@ There some couple of things you need to have on your system before installing la
    It will ask a question if you want to create the model because it does not exist. Type yes and it will create the model and controller
 
   ![104888884-933b4180-5997-11eb-849d-308ad4d23de2 (4)](https://user-images.githubusercontent.com/73945266/105570964-a58df480-5d76-11eb-8020-e45714f51058.png)
+  
+---
   
   A controller for project has been created for us with the following methods in the controller folder app/Http/Controllers/ProjectController.php
 
@@ -143,7 +146,9 @@ There some couple of things you need to have on your system before installing la
   app/Models/Project.php, add the following functions and the fillable, the fillable are the fields in the database that a user can fill.
   
   ![Screenshot (251)](https://user-images.githubusercontent.com/73945266/105571146-c440bb00-5d77-11eb-9d92-e8d7839f8c38.png)
+  
 ---
+
 - Add your views
   Laravel view files are is called the blade files, we are going to add those blade files, so a user can be able to interact with our app
   I like arranging my views according to the models, so I am going to create two folders in the resources/views folder
@@ -157,12 +162,14 @@ There some couple of things you need to have on your system before installing la
   - show.blade.php
 
 ---
+
 # Everything is now set
 
 - php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
 
   ![Screenshot (164)](https://user-images.githubusercontent.com/73945266/104888559-19a35380-5997-11eb-813b-a60512b9ccf5.png)
-  ---
+  
+---
 
 --- DONE
 
@@ -170,8 +177,6 @@ There some couple of things you need to have on your system before installing la
 - Navigate to http://127.0.0.1:8000/projects
 
   ![Screenshot (237)](https://user-images.githubusercontent.com/73945266/105517372-29a59500-5d01-11eb-9398-3403d05d8b99.png)
-
-
 
 ---
 
