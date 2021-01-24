@@ -177,7 +177,8 @@ There some couple of things you need to have on your system before installing la
 
 - My Welcome Page
 
-  ![Screenshot (253)](https://user-images.githubusercontent.com/73945266/105633995-f7717000-5e85-11eb-933f-04f1c5cfedf0.png)
+  ![Screenshot (257)](https://user-images.githubusercontent.com/73945266/105634959-ca738c00-5e8a-11eb-8206-6cbaacb2583b.png)
+
   
 ---
 
