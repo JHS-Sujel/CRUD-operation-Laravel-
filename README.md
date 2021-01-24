@@ -175,6 +175,11 @@ There some couple of things you need to have on your system before installing la
 
 --- DONE
 
+- My Welcome Page
+
+  ![Screenshot (253)](https://user-images.githubusercontent.com/73945266/105633995-f7717000-5e85-11eb-933f-04f1c5cfedf0.png)
+  
+---
 
 - Navigate to http://127.0.0.1:8000/projects
 
