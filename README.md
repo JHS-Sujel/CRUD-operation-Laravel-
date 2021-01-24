@@ -240,6 +240,6 @@ There some couple of things you need to have on your system before installing la
 
 ## License
 
-   Basically, feel free to use and re-use any way you want
+   Basically, feel free to use and re-use any way you want.
 
 
